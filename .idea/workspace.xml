@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2eae8584-5ab4-425b-b193-74cae994ce74" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="ApexTrigger" />
+        <option value="ApexTrigger.trigger-meta" />
+        <option value="ApexClass" />
+        <option value="ApexClass.cls-meta" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1a1u9cPfNtBhFp4UIWWA0Zzd3UF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="SFUnavailableTypes">
+    <types>
+      <type value="Translations" />
+      <type value="Portal" />
+      <type value="Network" />
+      <type value="CommunityThemeDefinition" />
+      <type value="CommunityTemplateDefinition" />
+    </types>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2eae8584-5ab4-425b-b193-74cae994ce74" name="Default Changelist" comment="" />
+      <created>1585915270550</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585915270550</updated>
+      <workItem from="1585915273121" duration="4005000" />
+      <workItem from="1585939415829" duration="611000" />
+      <workItem from="1586104465319" duration="838000" />
+      <workItem from="1586166152987" duration="844000" />
+    </task>
+    <task id="LOCAL-00001" summary="Deploy with ApexVCS">
+      <created>1585918731264</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1585918731264</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Deploy with ApexVCS">
+      <created>1585918754486</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1585918754486</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Deploy with ApexVCS">
+      <created>1585919031061</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1585919031061</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Deploy with ApexVCS">
+      <created>1585921214208</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1585921214208</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Deploy with ApexVCS">
+      <created>1585921642662</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1585921642662</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Deploy with ApexVCS">
+      <created>1585921793088</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1585921793088</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Deploy with ApexVCS">
+      <created>1585921919785</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1585921919785</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Deploy with ApexVCS">
+      <created>1585921982862</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1585921982862</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Deploy with ApexVCS" />
+    <option name="LAST_COMMIT_MESSAGE" value="Deploy with ApexVCS" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="541" y="439" width="424" height="241" key="#Managed_Packages" timestamp="1585915594736">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="541" y="439" width="424" height="241" key="#Managed_Packages/72.27.1848.1053@72.27.1848.1053" timestamp="1585915594736" />
+    <state x="129" y="215" width="800" height="684" key="#Project_Structure" timestamp="1585920566692">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="129" y="215" width="800" height="684" key="#Project_Structure/72.27.1848.1053@72.27.1848.1053" timestamp="1585920566692" />
+    <state x="843" y="251" width="295" height="611" key="#Retrieve_Components" timestamp="1586104702782">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="843" y="251" width="295" height="611" key="#Retrieve_Components/72.27.1848.1053@72.27.1848.1053" timestamp="1586104702782" />
+    <state x="262" y="302" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1585918698407">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="262" y="302" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1585918698407" />
+    <state x="94" y="130" width="860" height="854" key="CommitChangelistDialog2" timestamp="1585921979243">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="94" y="130" width="860" height="854" key="CommitChangelistDialog2/72.27.1848.1053@72.27.1848.1053" timestamp="1585921979243" />
+    <state x="172" y="127" width="714" height="853" key="DiffContextDialog" timestamp="1585918720540">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="172" y="127" width="714" height="853" key="DiffContextDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1585918720540" />
+    <state x="185" y="381" key="com.intellij.ide.util.TipDialog" timestamp="1586166154478">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="185" y="381" key="com.intellij.ide.util.TipDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1586166154478" />
+    <state x="372" y="448" width="313" height="218" key="com.jetforcer.platform.actions.SFCreateClassDialog" timestamp="1585921206056">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="372" y="448" width="313" height="218" key="com.jetforcer.platform.actions.SFCreateClassDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1585921206056" />
+    <state x="379" y="467" width="290" height="179" key="com.jetforcer.platform.actions.SFCreateTriggerAction$1" timestamp="1585915369413">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="379" y="467" width="290" height="179" key="com.jetforcer.platform.actions.SFCreateTriggerAction$1/72.27.1848.1053@72.27.1848.1053" timestamp="1585915369413" />
+    <state x="72" y="203" width="1372" height="707" key="new project wizard" timestamp="1585915607690">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="72" y="203" width="1372" height="707" key="new project wizard/72.27.1848.1053@72.27.1848.1053" timestamp="1585915607690" />
+  </component>
+</project>
